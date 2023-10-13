@@ -24,13 +24,13 @@ What makes you **excited** to wake up and start your day?
 
 ### 现实具有社会需求层面的意义
 Plan 1：可以回避一下：如果说考虑的现实是社会需求因素的话，一般来说你选择的方向是与国家更为薄弱的一环，e.g.基础学科，你会发现是否能够长期的奉献、努力下去，到最后非常依赖此的兴趣。设想一下………………
-Plan 2：社会需求的变化
+Plan 2：攻击性更强的说法：社会需求的变化周期往往很小
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY0NTc3NzAsLTE5MjIwMTc0OCwtNz
+eyJoaXN0b3J5IjpbLTIxMTg2NDA5NTAsLTE5MjIwMTc0OCwtNz
 Q0ODgwOTgwLC03NzE2NDcwNjAsLTE2ODQ2NDE4MDAsMTU4ODY2
 NDQ5MCw5NDgzMDcyODcsLTIwOTI3NjgzODksLTQ2MTczMzQ5Ni
 wtMjA4ODc0NjYxMl19
