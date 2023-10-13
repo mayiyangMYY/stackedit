@@ -17,19 +17,22 @@ What makes you **excited** to wake up and start your day?
 应当站在当下社会的角度看待问题，选择的机会更多，可以有更多试错成本。
 
 ## defend
+
 ### 不能够不考虑现实
 1.更多考虑兴趣，并不意味着抛弃对现实的关注。切·格瓦拉曾说过：让我们忠于理想，让我们面对现实。这里所说的理想可以理解为兴趣在价值意义上的更高的一种状态，跟兴趣一样，passionate about 的终极目标。不可否认，人的生存是要收到社会现实的约束的。但需要注意到这样的事：考虑个人层面上的现实是人类生存的最低需求，兴趣更适合作为选择的高优先级的标准。
 
 ### 现实具有社会需求层面的意义
-Plan 1：可以回避一下：如果说考虑的现实是社会需求因素的话，一般来说你选择的方向是与国家更为薄弱的一环，e.g.基础学科，你会发现是否能够长期的奉献、努力下去，到最后非常依赖此的兴趣。设想一下………………
+
+Plan 1：想己方观点靠近：如果说考虑的现实是社会需求因素的话，一般来说你选择的方向是与国家更为薄弱的一环，e.g.基础学科，你会发现是否能够长期的奉献、努力下去，到最后非常依赖此的兴趣。设想一下………………
+
 Plan 2：攻击性更强的说法：社会需求的变化周期往往很小，很容易导致付出变成沉没成本
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDg3MTcxMiwtMTkyMjAxNzQ4LC03ND
-Q4ODA5ODAsLTc3MTY0NzA2MCwtMTY4NDY0MTgwMCwxNTg4NjY0
-NDkwLDk0ODMwNzI4NywtMjA5Mjc2ODM4OSwtNDYxNzMzNDk2LC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTM0MDkwNzU5MSwtMzQwODcxNzEyLC0xOT
+IyMDE3NDgsLTc0NDg4MDk4MCwtNzcxNjQ3MDYwLC0xNjg0NjQx
+ODAwLDE1ODg2NjQ0OTAsOTQ4MzA3Mjg3LC0yMDkyNzY4Mzg5LC
+00NjE3MzM0OTYsLTIwODg3NDY2MTJdfQ==
 -->
