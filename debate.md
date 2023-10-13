@@ -18,15 +18,18 @@ What makes you **excited** to wake up and start your day?
 
 ## example
 
-## battle
-更多考虑兴趣，并不意味着抛弃对现实的关注。切·格瓦拉曾说过：让我们忠于理想，让我们面对现实。这里所说的理想可以理解为兴趣在价值意义上的更高的一种状态，跟兴趣一样，passionate about 的终极目标。不可否认，人的生存是要收到社会现实的约束的。但需要注意到这样的事：考虑个人层面上的现实是人类生存的最低需求，兴趣更适合作为选择的高优先级的标准。
+## defend
+### 不能够不考虑现实
+1.更多考虑兴趣，并不意味着抛弃对现实的关注。切·格瓦拉曾说过：让我们忠于理想，让我们面对现实。这里所说的理想可以理解为兴趣在价值意义上的更高的一种状态，跟兴趣一样，passionate about 的终极目标。不可否认，人的生存是要收到社会现实的约束的。但需要注意到这样的事：考虑个人层面上的现实是人类生存的最低需求，兴趣更适合作为选择的高优先级的标准。
+
+2.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIzNDg2MjUsLTE5MjIwMTc0OCwtNz
-Q0ODgwOTgwLC03NzE2NDcwNjAsLTE2ODQ2NDE4MDAsMTU4ODY2
-NDQ5MCw5NDgzMDcyODcsLTIwOTI3NjgzODksLTQ2MTczMzQ5Ni
-wtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTE4ODk3ODA5MSwtMTkyMjAxNzQ4LC03ND
+Q4ODA5ODAsLTc3MTY0NzA2MCwtMTY4NDY0MTgwMCwxNTg4NjY0
+NDkwLDk0ODMwNzI4NywtMjA5Mjc2ODM4OSwtNDYxNzMzNDk2LC
+0yMDg4NzQ2NjEyXX0=
 -->
