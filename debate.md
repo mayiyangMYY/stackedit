@@ -7,9 +7,11 @@
 
 更多考虑兴趣，并不意味着抛弃对现实的关注
 
+《新潮职业》: 世界最幸福的事情，莫过于把自己的热爱变成事业
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTY0NzA2MCwtMTY4NDY0MTgwMCwxNT
-g4NjY0NDkwLDk0ODMwNzI4NywtMjA5Mjc2ODM4OSwtNDYxNzMz
-NDk2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTc0NDg4MDk4MCwtNzcxNjQ3MDYwLC0xNj
+g0NjQxODAwLDE1ODg2NjQ0OTAsOTQ4MzA3Mjg3LC0yMDkyNzY4
+Mzg5LC00NjE3MzM0OTYsLTIwODg3NDY2MTJdfQ==
 -->
