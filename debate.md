@@ -10,9 +10,9 @@
 《新潮职业》: 世界最幸福的事情，莫过于把自己的热爱变成事业
 
 切·格瓦拉曾说过“让我们忠于理想，让我们面对现实。” 理想其实是兴趣爱好再价值意义上的更高的一种状态
-
+What are you passionate about? What topics do you enjoy learning about? What makes you excited to wake up and start your day?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjg3NzgwNSwtNzQ0ODgwOTgwLC03Nz
+eyJoaXN0b3J5IjpbMTc3NTgyODAxOSwtNzQ0ODgwOTgwLC03Nz
 E2NDcwNjAsLTE2ODQ2NDE4MDAsMTU4ODY2NDQ5MCw5NDgzMDcy
 ODcsLTIwOTI3NjgzODksLTQ2MTczMzQ5NiwtMjA4ODc0NjYxMl
 19
