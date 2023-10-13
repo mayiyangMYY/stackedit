@@ -5,15 +5,15 @@
 1.个人真正愿意投入时间与精力
 2.兴趣一般来说更符合个人的能力方向，更有可能充分发挥个人潜力
 
-更多考虑兴趣，并不意味着抛弃对现实的关注，但是，兴趣更适合作为
+更多考虑兴趣，并不意味着抛弃对现实的关注。但是，兴趣更适合作为选择的第一标准，
 
 《新潮职业》: 世界最幸福的事情，莫过于把自己的热爱变成事业
 
 切·格瓦拉曾说过“让我们忠于理想，让我们面对现实。” 理想其实是兴趣爱好再价值意义上的更高的一种状态
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMTczMzY4LC03NDQ4ODA5ODAsLTc3MT
-Y0NzA2MCwtMTY4NDY0MTgwMCwxNTg4NjY0NDkwLDk0ODMwNzI4
-NywtMjA5Mjc2ODM4OSwtNDYxNzMzNDk2LC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbMTk4Mjg3NzgwNSwtNzQ0ODgwOTgwLC03Nz
+E2NDcwNjAsLTE2ODQ2NDE4MDAsMTU4ODY2NDQ5MCw5NDgzMDcy
+ODcsLTIwOTI3NjgzODksLTQ2MTczMzQ5NiwtMjA4ODc0NjYxMl
+19
 -->
