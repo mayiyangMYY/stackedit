@@ -1,5 +1,10 @@
 ## 当代青年就业应当更多考虑兴趣与价值问题
 
+## cautions
+
+1.一定要注意己方的立论，它比攻击对方更为重要；
+2.不以说服对方辩手为目的，要考虑对第三方的。
+
 ## claim
 
 兴趣
@@ -31,5 +36,5 @@ Plan 2：攻击性更强的说法：社会需求的变化周期往往很小，�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDkwNzU5MV19
+eyJoaXN0b3J5IjpbLTY2ODAxMjE4NiwtMzQwOTA3NTkxXX0=
 -->
