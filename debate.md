@@ -1,6 +1,6 @@
 ## 当代青年就业应当更多考虑兴趣与价值问题
 
-## 立论
+## claim
 
 兴趣
 1.个人**真正愿意**投入时间与精力
@@ -10,8 +10,8 @@
 What makes you **excited** to wake up and start your day?
 
 《新潮职业》: 世界最幸福的事情，莫过于把自己的热爱变成事业
-1.具有比较高的效率，办事具有动力，主观能动性
-2.充实感，促进心理健康
+1.具有比较高的效率（不要去和对方比较），办事具有动力，主观能动性
+2.充实感，促进心理健康（具有现实意义）
 3.并不是放弃了对现实的考虑
 
 应当站在当下社会的角度看待问题，选择的机会更多，可以有更多试错成本。
@@ -25,8 +25,8 @@ What makes you **excited** to wake up and start your day?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzM4NzY1NCwtMTkyMjAxNzQ4LC03ND
-Q4ODA5ODAsLTc3MTY0NzA2MCwtMTY4NDY0MTgwMCwxNTg4NjY0
-NDkwLDk0ODMwNzI4NywtMjA5Mjc2ODM4OSwtNDYxNzMzNDk2LC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE1NzIzNDg2MjUsLTE5MjIwMTc0OCwtNz
+Q0ODgwOTgwLC03NzE2NDcwNjAsLTE2ODQ2NDE4MDAsMTU4ODY2
+NDQ5MCw5NDgzMDcyODcsLTIwOTI3NjgzODksLTQ2MTczMzQ5Ni
+wtMjA4ODc0NjYxMl19
 -->
