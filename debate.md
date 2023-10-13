@@ -13,9 +13,7 @@ What makes you excited to wake up and start your day?
 2.具有比较高的效率，办事具有动力，主观能动性
 3.充实感，促进心理健康
 
-应当站在当下社会的角度看待问题
-
-选择的机会更多，可以有更多试错成本
+应当站在当下社会的角度看待问题，选择的机会更多，可以有更多试错成本。
 
 更多考虑兴趣，并不意味着抛弃对现实的关注。切·格瓦拉曾说过：让我们忠于理想，让我们面对现实。这里所说的理想可以理解为兴趣在价值意义上的更高的一种状态，跟兴趣一样，passionate about 的终极目标。不可否认，人的生存是要收到社会现实的约束的。但需要注意到这样的事：考虑个人层面上的现实是人类生存的最低需求，兴趣更适合作为选择的高优先级的标准。
 
@@ -23,8 +21,8 @@ What makes you excited to wake up and start your day?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjIwMTc0OCwtNzQ0ODgwOTgwLC03Nz
-E2NDcwNjAsLTE2ODQ2NDE4MDAsMTU4ODY2NDQ5MCw5NDgzMDcy
-ODcsLTIwOTI3NjgzODksLTQ2MTczMzQ5NiwtMjA4ODc0NjYxMl
-19
+eyJoaXN0b3J5IjpbNzEyNDE0MjE2LC0xOTIyMDE3NDgsLTc0ND
+g4MDk4MCwtNzcxNjQ3MDYwLC0xNjg0NjQxODAwLDE1ODg2NjQ0
+OTAsOTQ4MzA3Mjg3LC0yMDkyNzY4Mzg5LC00NjE3MzM0OTYsLT
+IwODg3NDY2MTJdfQ==
 -->
